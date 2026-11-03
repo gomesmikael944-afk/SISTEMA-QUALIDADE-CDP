@@ -1,0 +1,9 @@
+{
+    "atendimento1": {
+        "nome": "Mikael Gomes",
+        "salt": "a4d9e991d2096bd51eb5d36998b5e906",
+        "senha_hash": "971972a9451dec3b92635d9b31a3dc770de8f110a929fab83e7f62176b884a52",
+        "perfil": "Administrador",
+        "ativo": true
+    }
+}

@@ -1,0 +1,62 @@
+﻿id,data_registro,cliente,documento,pedido,produto,lote,fabricacao,data_reclamacao,quantidade,tipo_problema,descricao,status,responsavel,anexos,historico,tipo_resolucao,valor_cupom,valor_lalamove,descricao_resolucao,data_resolucao
+1,03/11/2026 07:51,REFUGIO DOS CONDES,54.731.652/0001-25,132083,1038 - SOURDOUGH FILÃO GIGANTE (4 unid),0000,2026-10-09,2026-11-03,4 caixas,Produto amassado,Cliente está falando que o pão está Cru,Em análise,Mikael,,"03/11/2026 07:51 | Ocorrência cadastrada | Status: Sem resposta
+03/11/2026 07:51 | Status: Sem resposta para Em análise | Responsável: Mikael | Observação:",,,,,
+SAC-c50902f8aab7,6/3/2026,ACASA GUAIPA,,118306,183 (185),,,6/3/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Resolvido,,,"Sim
+03/11/2026 11:24 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-db42acf4b731,6/3/2026,RENAN,,119216,1025,,,6/3/2026,,Reclamação - Qualidade,Pedido entregue com caixa faltando.,Resolvido,,,"Sim
+03/11/2026 11:26 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-58e8f7510d17,6/3/2026,WILL,,,10005,,,6/3/2026,,Reclamação - Qualidade,Pedido entregue com caixa faltando.,Resolvido,,,"Sim
+03/11/2026 11:26 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-f9455f00e48b,6/3/2026,RAY,,,1041,,,6/3/2026,,Reclamação - Qualidade,Pedido entregue com caixa faltando.,Resolvido,,,"Sim
+03/11/2026 11:27 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-033e7f3e0cdb,6/9/2026,WILL,,118746,1038 (1010),,01/06/20206,6/9/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Resolvido,,,"Sim
+03/11/2026 11:27 | Status: Sem resposta para Resolvido | Responsável:  | Observação:
+03/11/2026 11:27 | Status: Resolvido para Resolvido | Responsável:  | Observação:",,,,,
+SAC-b192b0d85678,6/16/2026,WILL,,120284,10005 (1006),16626,,6/16/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Resolvido,,,"Sim
+03/11/2026 11:28 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-f52c799a3e0b,6/23/2026,WILL,,121022,1044,,,6/23/2026,,Reclamação - Qualidade,Pedido entregue com caixa faltando.,Resolvido,,,"Sim
+03/11/2026 11:28 | Status: Sem resposta para Resolvido | Responsável:  | Observação:
+03/11/2026 11:28 | Status: Resolvido para Resolvido | Responsável:  | Observação:",,,,,
+SAC-dc13130276eb,7/6/2026,GERFSON,,,183,,,7/6/2026,,Reclamação - Qualidade,Pães fora do padrão (pequenos).,Resolvido,,,"Sim
+03/11/2026 11:28 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-e46158701425,7/23/2026,ANDRÉ,,,200,,,7/23/2026,,Reclamação - Qualidade,Pães fora do padrão (amassados).,Resolvido,,,"Sim
+03/11/2026 11:29 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-b0e37b21807f,8/3/2026,JEFFERSON JEFFERSON,,,1038,,,8/3/2026,,Reclamação - Qualidade,Pães enviados sem corte.,Resolvido,,,"Sim
+03/11/2026 11:29 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-a37c4abdd5e5,8/10/2026,THAYNARA AMAGÔ,,126245,200,21926,8/7/2026,8/10/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Resolvido,,,"Sim
+03/11/2026 11:30 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-8ce6f6c2d04e,8/18/2026,ALISSON 40'S,,126794,200,22425,8/12/2026,8/18/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Resolvido,,,"Sim
+03/11/2026 11:31 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-a823f2a65cbe,8/19/2026,RENATO,,126447,185,22425,8/12/2026,8/19/2026,,Reclamação - Qualidade,Caixas enviadas erradas.,Resolvido,,,"Sim
+03/11/2026 11:31 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-d7de8a07cabd,8/28/2026,DANILO MADAME,,127697,134,23626,8/24/2026,8/28/2026,,Reclamação - Qualidade,Pães fora do padrão.,Resolvido,,,"Sim
+03/11/2026 11:32 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-c6f554e7175d,8/25/2026,TIAGO,,126598,142,22326,,8/25/2026,,Reclamação - Qualidade,Pães fora do padrão (pequenos).,Resolvido,,,"Sim
+03/11/2026 11:32 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-a3223ebb0e31,8/31/2026,SILVIA,,127826,101,,,8/31/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Resolvido,,,"Sim
+03/11/2026 11:32 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-7af1ff0d7be8,9/1/2026,ARI,,127708,111,23828,8/26/2026,9/1/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Resolvido,,,"Sim
+03/11/2026 11:33 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-96289dea7cfc,9/3/2026,ELZA,,128045,104,23826,8/26/2026,9/3/2026,,Reclamação - Qualidade,Motorista entregou apenas NF.,Resolvido,,,"Sim
+03/11/2026 11:33 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-69dc622f82b2,9/3/2026,TÁSSILA,,128257,120,,,9/3/2026,,Reclamação - Logística,Pães fora do padrão (pequenos).,Resolvido,,,"Sim
+03/11/2026 11:35 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-4aad0b3ad87e,9/4/2026,BRUNO PAVAN VILA,,128036,,24326,8/31/2026,9/4/2026,,Reclamação - Qualidade,Caixas enviadas erradas.,Resolvido,,,"Sim
+03/11/2026 11:36 | Status: Sem resposta para Resolvido | Responsável:  | Observação:
+03/11/2026 11:36 | Status: Resolvido para Resolvido | Responsável:  | Observação:",,,,,
+SAC-f878fbeb75eb,9/4/2026,SANDRO,,128755,104,,,9/4/2026,,Reclamação - Logística,Pães fora do padrão (pequenos).,Resolvido,,,"Sim
+03/11/2026 11:36 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-0a9661d045d7,9/4/2026,VITOR,,127687,111,22926,,9/4/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Resolvido,,,"Sim
+03/11/2026 11:36 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-62781bc6f060,9/6/2026,MAURICIO,,128377,104,23926,8/27/2026,9/6/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Resolvido,,,"Sim
+03/11/2026 11:37 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-9fd8c14576a9,9/6/2026,ANIZIO BODEGA,,128194,111,23726,8/25/2026,9/6/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Sem resposta,,,Sim,,,,,
+SAC-091dcd28e374,9/8/2026,MARCELO,,127838,105,23326,8/21/2026,9/8/2026,,Reclamação - Qualidade,Pedido entregue com validade curta.,Sem resposta,,,Sim,,,,,
+SAC-60335977096e,9/5/2026,STHEFANY,,128381,111,23326,8/21/2026,9/5/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Sem resposta,,,Sim,,,,,
+SAC-74acf96c7105,9/8/2026,JOSUÉ,,128065,104,23826,8/26/2026,9/8/2026,,Reclamação - Qualidade,Produto entregue etiquetado errado.,Sem resposta,,,Sim,,,,,
+SAC-713ddc75a6af,9/8/2026,TÁSSILA,,127574,605,23726,8/25/2026,9/8/2026,,Reclamação - Qualidade,Pedido entregue com validade curta.,Resolvido,,,"Sim
+03/11/2026 11:36 | Status: Sem resposta para Resolvido | Responsável:  | Observação:",,,,,
+SAC-1e35b6b3eddf,9/9/2026,PAULO BBB,,128274,603,23225,8/20/2026,9/9/2026,,Reclamação - Qualidade,Pedido entregue com validade curta.,Sem resposta,,,Sim,,,,,
+SAC-5ca2f7b233dd,9/9/2026,PAULO BBB,,128274,603,23225,8/21/2026,9/9/2026,,Reclamação - Qualidade,Pães fora do padrão (pequenos).,Sem resposta,,,Sim,,,,,
+SAC-5ecbfd2f35d1,9/10/2026,DJALMA BBB,,,603,24526,9/2/2026,9/10/2026,,Reclamação - Qualidade,Pães fora do padrão (pequenos).,Sem resposta,,,Sim,,,,,
+SAC-2f1232ca18c5,9/10/2026,DJALMA BBB,,,,24326,8/31/2026,9/10/2026,,Reclamação - Qualidade,,Sem resposta,,,Sim,,,,,
